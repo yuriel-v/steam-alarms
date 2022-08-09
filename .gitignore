@@ -1,3 +1,10 @@
+# VSCode stuffs
+*.code-workspace
+.vscode
+
+# Python venv
+.sm-venv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
